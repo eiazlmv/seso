@@ -1,2 +1,0 @@
-# seso
-zeso
